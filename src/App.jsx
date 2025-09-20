@@ -1,10 +1,10 @@
 import React from 'react'
-import Navbar from './components/Navbar'
+import HomePage from './components/HomePage'
 
 const App = () => {
   return (
-    <div className='px-[5%]'> 
-      <Navbar />
+    <div className=' font-sans'> 
+     <HomePage />
     </div>
   )
 }
